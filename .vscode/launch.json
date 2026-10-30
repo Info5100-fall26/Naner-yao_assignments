@@ -3,10 +3,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "sumMatrix",
+            "name": "App",
             "request": "launch",
-            "mainClass": "com.example.sumMatrix",
-            "projectName": "mdterm"
+            "mainClass": "com.example.App",
+            "projectName": "lab2"
         },
         {
             "type": "java",
