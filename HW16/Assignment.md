@@ -1,0 +1,8 @@
+## What is OOD and why is it important?
+- OOD, or Object-Oriented Design, is the process of planning a software system around objects, which bundle data with behavior, before writing code. It decides which classes exist, what each is responsible for, and how they collaborate. It is important because it makes code easier to maintain, reuse, and extend, reduces coupling between modules, and improves team communication.
+## Describe key principles of OOD.
+- The four core principles are encapsulation, which hides internal details and exposes only a necessary interface, abstraction, which focuses on essential features, inheritance, where a subclass reuses and extends a parent class, and polymorphism, where one interface has many implementations. Related guidelines include high cohesion, low coupling, and favoring composition over inheritance.
+## What is the difference between OOD and OOP?
+- OOD is the design stage: it decides how to structure the system and how objects interact, producing class diagrams and responsibilities. OOP is the implementation stage: it writes that design as code in an object-oriented language such as Java, C++, or Python. In short, OOD is the blueprint and OOP is the construction.
+## What are SOLID design principles?
+- SOLID stands for Single Responsibility, meaning a class has only one reason to change, open or closed, meaning open for extension but closed for modification, Liskov Substitution, meaning subclasses can replace their parent without breaking correctness, Interface Segregation, meaning several small interfaces are better than one large one, and Dependency Inversion, meaning high-level modules depend on abstractions rather than low-level details.
