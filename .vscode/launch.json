@@ -3,6 +3,14 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.example.App",
+            "projectName": "lab3"
+        },
+        
+        {
+            "type": "java",
             "name": "ChatApp",
             "request": "launch",
             "mainClass": "hw13.ChatApp",
